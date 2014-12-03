@@ -1,4 +1,5 @@
 /*globals console, _, jQuery, _*/
+/* author: hon-chih.chen */
 
 _.templateSettings = {
     interpolate: /\{\{\=(.+?)\}\}/g,
